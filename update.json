@@ -1,7 +1,7 @@
 {
-  "version": "1.3.6",
-  "file": "app-1.3.6.asar",
-  "sha256": "a6d97cb4e1cfb392245623eaf254f0bf69176d3d19b6e7d7c3a698363e750c0f",
+  "version": "1.3.7",
+  "file": "app-1.3.7.asar",
+  "sha256": "596b5fea108d2edcb9d4f077cd1b42969d9da1d2b80fe6569dd81aad099d38b6",
   "notes": "",
   "baseMin": 1
 }
